@@ -93,7 +93,7 @@ efficiency=P*100/(P+Lineloss);
 
 fprintf(‘\n Transmission efficiency= %.2f percent’, efficiency)
 
-Outout:-
+Output:-
 
 For leading:-
 
