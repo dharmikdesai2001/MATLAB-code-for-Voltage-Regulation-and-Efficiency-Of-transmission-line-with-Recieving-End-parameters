@@ -1,0 +1,1 @@
+# MATLAB-code-for-Voltage-Regulation-and-Efficiency-Of-transmission-line-with-Recieving-End-parameters
